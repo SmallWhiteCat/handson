@@ -1,0 +1,7 @@
+git下载: git clone link_path save_path
+原Python目录： D:\PythonWork
+ML课程：https://www.coursera.org/learn/machine-learning
+Scikit-Learn API: https://scikit-learn.org/stable/user_guide.html
+交互式教程（需要登陆）： https://www.dataquest.io/
+ML博客(有大量资源，有问题可以上去搜索): http://goo.gl/GwtU3A
+DL网站（学习资料，暂时更新至2016年）：http://deeplearning.net/
